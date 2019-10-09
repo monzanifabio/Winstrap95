@@ -4,6 +4,29 @@ body, h1, h2, h3, h4, h5, h6, p, a, li, code, samp, cite, blockquote {
 	font-family: 'MS Sans Serif';
 }
 
+.bg-default {
+	background-color: #008080;
+}
+
+/* BUTTONS ================================================================== */
+
+.btn {
+	font-family:"MS Sans Serif";
+  font-size:11px;
+  outline:1px solid #000000;
+  background: #C0C0C0;
+  border-width: 1px;
+  border-style: solid;
+  border-color:#FFFFFF #808080 #808080;
+	border-radius: 0px;
+}
+
+.navbar {
+	background: #C0C0C0;
+  border-width: 1px;
+  border-color: #FFFFFF #808080 #808080;
+}
+
 #typography {
 		margin-top: -3rem;
 }
